@@ -8,17 +8,9 @@ function App() {
 
   return (
     <div className="quote-container">
-      <h2 className="quote">
-        "Programming is not about what you know; it's about what you can figure
-        out."
-      </h2>
-      <p className="author">- Unknown</p>
-      <h2 className="quote2">
-        "The only way to learn a new programming language is by writing programs
-        in it."
-      </h2>
-      <p className="author">- Dennis Ritchie</p>
-      <h1>Love the way you lie :)</h1>
+      <h1>Do code</h1>
+      
+  
     </div>
   );
 }
